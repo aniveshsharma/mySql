@@ -45,6 +45,8 @@ dept varchar(20),
 salary int
 );
 
+ -- Inserting Data in Table
+
 insert into Employees
 values
 (23001,'Hrishita','Apte','hrishitaapte@abc.com','Analyst',18756),
